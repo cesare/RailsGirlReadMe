@@ -7,3 +7,4 @@ railsgirlsmore
 Theme:How to use github.
 Instructor:Mr.Sawada
 
+* Added by @cesare
